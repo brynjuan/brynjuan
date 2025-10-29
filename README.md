@@ -12,7 +12,17 @@
 </table>
 
 ###
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/59iWk1BfiajzmAYkxvB6vx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<h2 align="left">Minigame: Petualangan Developer</h2>
+
+<p>Kamu adalah seorang developer yang sedang dikejar deadline. Tiba-tiba, sebuah bug kritis muncul di production. Apa yang kamu lakukan?</p>
+
+<p>
+  <a href="./game/1_lihat_log.md">1. Tenang, dan periksa log server.</a>
+  <br>
+  <a href="./game/1_ambil_kopi.md">2. Panik, dan ambil kopi dulu.</a>
+</p>
+
 <h2 align="left">My Tech Stack</h2>
 
 ###
