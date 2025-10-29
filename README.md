@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="1" alt="languages graph"  />
 </div>
@@ -61,11 +63,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhhazFuMjd4bnV3YTN5ZnBlcWI0ZXJtMmd4YWFiYjFpdWhhejAzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y2mGO5ETLEOkTkVdgA/giphy.webp"  />
+<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhhazFuMjd4bnV3YTN5ZnBlcWI0ZXJtMmd4YWFiYjFpdWhhejAzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y2mGO5ETLEOkTkVdgA/giphy.webp"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/brynjuan/brynjuan/output/snake.svg" alt="Snake animation" />
 
