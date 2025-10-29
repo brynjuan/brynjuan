@@ -8,7 +8,7 @@
 </p>
 <br>
 <p>
-  <a href="./game/2a_refactor.md">
+  <a href="./2a_refactor.md">
     <b>Pilihan A1:</b> Tidur dulu. Besok pagi (Minggu) baru rapikan (<i>refactor</i>) kodenya.
   </a>
 </p>
