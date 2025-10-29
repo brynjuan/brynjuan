@@ -84,3 +84,93 @@
 <img src="https://raw.githubusercontent.com/brynjuan/brynjuan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h2 align="left" id="minigame-the-bug-hunter">Minigame: The Bug Hunter</h2>
+<p>
+  🚨 <b>ALERT!</b> Sistem E-Commerce klien sedang down tepat di tengah malam. Semua transaksi gagal. Kamu adalah satu-satunya developer yang online.
+</p>
+<p>
+  Misimu: Temukan sumber masalahnya!
+</p>
+<br>
+
+<details>
+  <summary>
+    <b>Langkah 1:</b> <code>ssh user@server-produksi</code> (Coba login ke server)
+  </summary>
+  <br>
+  <p>Kamu mencoba login...</p>
+  <pre>
+[TERMINAL]
+Connecting to 192.168.0.1...
+Access Denied.
+</pre>
+  <p>
+    ❗ <b>Gagal!</b> Sepertinya ada <i>brute force attack</i> yang mengunci IP-mu. Kamu harus menggunakan pintu belakang (<i>backdoor</i>) yang pernah kamu siapkan.
+  </p>
+  <br>
+  <details>
+    <summary>
+      <b>Langkah 2:</b> <code>ssh user@server-backup -p 2222</code> (Coba pintu belakang)
+    </summary>
+    <br>
+    <p>Kamu mencoba port rahasia...</p>
+    <pre>
+[TERMINAL]
+Authentication successful. Welcome, user.
+$
+</pre>
+    <p>
+      ✅ <b>Berhasil!</b> Kamu sekarang ada di dalam server. Langkah selanjutnya adalah memeriksa log aplikasi utama.
+    </p>
+    <br>
+    <details>
+      <summary>
+        <b>Langkah 3:</b> <code>tail -f /var/log/app.log</code> (Periksa log aplikasi)
+      </summary>
+      <br>
+      <p>Kamu membuka file log dan melihat error yang berulang-ulang...</p>
+      <pre>
+[ERROR] FATAL: Failed to connect to database 'prod_db'.
+[ERROR] Reason: Too many connections
+[ERROR] FATAL: Failed to connect to database 'prod_db'.
+[ERROR] Reason: Too many connections
+</pre>
+      <p>
+        ❗ <b>Masalah Ditemukan!</b> Aplikasi tidak bisa terhubung ke database karena koneksinya penuh. Seseorang pasti telah membuat <i>query</i> yang tidak menutup koneksi (<i>connection leak</i>). Kamu harus merestart database-nya.
+      </p>
+      <br>
+      <details>
+        <summary>
+          <b>Langkah 4:</b> <code>sudo service postgresql restart</code> (Restart database)
+        </summary>
+        <br>
+        <p>Kamu mengetik perintah restart dengan tangan gemetar...</p>
+        <pre>
+[TERMINAL]
+Restarting PostgreSQL database server... Done.
+$
+</pre>
+        <p>
+          Kamu mengecek monitor sistem... Transaksi mulai masuk kembali!
+        </p>
+        <br>
+        <h2>
+          ENDING: PAHLAWAN TENGAH MALAM
+        </h2>
+        <p>
+          ✅ <b>Selamat!</b> Kamu berhasil menyelamatkan klien dari kerugian besar. Kamu menemukan bug-nya dan memperbaiki sistem dalam 10 menit.
+        </p>
+        <p>
+          Sekarang... kamu bisa lanjut tidur (atau cari tahu siapa yang membuat <i>query</i> bocor itu besok pagi).
+        </p>
+        <br>
+        <p>
+          <a href="?cache_bust=1#minigame-the-bug-hunter">
+            &gt; Main Lagi? (Refresh halaman untuk reset)
+          </a>
+        </p>
+      </details>
+    </details>
+  </details>
+</details>
