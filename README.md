@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=false" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=5&theme=vue&hide_border=false" height="300" alt="languages graph"  />
 </div>
 
 ###
