@@ -19,18 +19,18 @@
 ###
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 22px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="63" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="63" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="63" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="63" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="63" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="63" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="63" alt="csharp logo" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="63" alt="cplusplus logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="63" alt="mysql logo" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="63" alt="supabase logo" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="63" alt="nextjs logo" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="63" alt="php logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="63,3" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="63,3" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="63,3" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="63,3" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="63,3" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="63,3" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="63,3" alt="csharp logo" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="63,3" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="63,3" alt="mysql logo" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="63,3" alt="supabase logo" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="63,3" alt="nextjs logo" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="63,3" alt="php logo" />
 </div>
 
 ###
