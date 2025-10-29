@@ -13,7 +13,7 @@
   </a>
 </p>
 <p>
-  <a href="./game/2b_push_berantakan.md">
+  <a href="./2b_push_berantakan.md">
     <b>Pilihan A2:</b> Bodo amat yang penting jalan. Langsung <code>git push</code> dan tidur.
   </a>
 </p>

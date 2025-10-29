@@ -8,12 +8,12 @@
 </p>
 <br>
 <p>
-  <a href="./game/2c_copas.md">
+  <a href="./2c_copas.md">
     <b>Pilihan B1:</b> Panik. Langsung chat temanmu yang paling jago dan minta kodenya.
   </a>
 </p>
 <p>
-  <a href="./game/2d_pasrah.md">
+  <a href="./2d_pasrah.md">
     <b>Pilihan B2:</b> Pasrah. Kamu kerjakan seadanya, yang penting kumpul walau tidak jalan.
   </a>
 </p>
