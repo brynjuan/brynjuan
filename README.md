@@ -13,14 +13,24 @@
 
 ###
 
-<h2 align="left">Minigame: Petualangan Developer</h2>
-
-<p>Kamu adalah seorang developer yang sedang dikejar deadline. Tiba-tiba, sebuah bug kritis muncul di production. Apa yang kamu lakukan?</p>
+<h2 align="left" id="minigame-petualangan-mahasiswa-informatika">Minigame: Petualangan Mahasiswa Informatika</h2>
 
 <p>
-  <a href="./game/1_lihat_log.md">1. Tenang, dan periksa log server.</a>
-  <br>
-  <a href="./game/1_ambil_kopi.md">2. Panik, dan ambil kopi dulu.</a>
+  Malam Minggu, jam 23:00. Kamu, seorang mahasiswa informatika, sedang menatap layar laptop. Ada tugas besar <b>Proyek Akhir Mata Kuliah "Struktur Data"</b> yang harus dikumpulkan hari Senin pagi.
+</p>
+<p>
+  Kodemu masih memiliki <i>segmentation fault</i> yang misterius. Apa yang kamu lakukan?
+</p>
+<br>
+<p>
+  <a href="./game/1a_ngoding.md">
+    <b>Pilihan A:</b> Gas ngoding semalaman. Kopi sudah siap, playlist lofi sudah terpasang.
+  </a>
+</p>
+<p>
+  <a href="./game/1b_main_game.md">
+    <b>Pilihan B:</b> "Ah, masih ada hari Minggu." Kamu memutuskan untuk main game dulu sebentar.
+  </a>
 </p>
 
 <h2 align="left">My Tech Stack</h2>
