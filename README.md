@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true" height="200" alt="languages graph" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=800&langs_count=5&theme=vue&hide_border=true" height="200" alt="languages graph" />
     </td>
     <td>
       <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhhazFuMjd4bnV3YTN5ZnBlcWI0ZXJtMmd4YWFiYjFpdWhhejAzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y2mGO5ETLEOkTkVdgA/giphy.webp" height="200" alt="hotwheels gif" />
