@@ -18,7 +18,7 @@
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 22px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="63" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="63" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="63" alt="react logo" />
