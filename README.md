@@ -1,14 +1,18 @@
 <h2 align="left">Hi 👋! My name is Briant Juan Hamonangan and I'm a Full-Stack Developer, from Indonesian</h2>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=500&langs_count=5&theme=vue&hide_border=true" height="200" alt="languages graph" />
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhhazFuMjd4bnV3YTN5ZnBlcWI0ZXJtMmd4YWFiYjFpdWhhejAzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y2mGO5ETLEOkTkVdgA/giphy.webp" height="200" alt="hotwheels gif" />
+    </td>
+  </tr>
+</table>
+
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brynjuan&locale=en&hide_title=true&layout=compact&card_width=1000&langs_count=5&theme=vue&hide_border=false" height="400" alt="languages graph"  />
-</div>
-
-###
 
 <h2 align="left">My Tech Stack</h2>
 
@@ -58,15 +62,6 @@
 ###
 
 <h2 align="left">My Snakes</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhhazFuMjd4bnV3YTN5ZnBlcWI0ZXJtMmd4YWFiYjFpdWhhejAzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y2mGO5ETLEOkTkVdgA/giphy.webp"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/brynjuan/brynjuan/output/snake.svg" alt="Snake animation" />
 
 ###
